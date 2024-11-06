@@ -37,3 +37,7 @@
    - Since each insertion pays 3 tokens, and we’ve saved enough to handle the expensive operations (doubling), we can say that **each insertion effectively costs an average of 3 tokens, or \( O(1) \)**.
 
 ---
+
+## Implement a dynamic array (that is a C++ vector). You are only allowed to use C style arrays. Assume the datatype is an int.
+- Output
+  ![Screenshot 2024-11-05 203759](https://github.com/user-attachments/assets/5a89b2a2-a5b3-4fb3-8f0e-17b7ef2105fa)
