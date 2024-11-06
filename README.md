@@ -40,4 +40,6 @@
 
 ## Implement a dynamic array (that is a C++ vector). You are only allowed to use C style arrays. Assume the datatype is an int.
 - Output
+
+  
   ![Screenshot 2024-11-05 203759](https://github.com/user-attachments/assets/5a89b2a2-a5b3-4fb3-8f0e-17b7ef2105fa)
