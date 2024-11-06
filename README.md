@@ -18,7 +18,7 @@
    - When we add up all the time spent on insertions (including copying), it turns out to be about \( O(n) \) for \( n \) items.
 
 4. **Average (Amortized) Cost**:
-   - So if the total cost for \( n \) insertions is \( O(n) \), the average cost per insertion is \( \frac{O(n)}{n} = O(1) \).
+   - So if the total cost for \( n \) insertions is \( O(n) \), the average cost per insertion is \( {O(n)}/{n} = O(1) \).
    - **In simple terms:** Each insertion, on average, costs a fixed amount of time, or \( O(1) \).
 
 ---
